@@ -26,7 +26,7 @@
     - main
     jobs: mom/marketing
   my_job: remote abundant outsourcing
-    name: deploy
+    
     runs-on: ubuntu-18.04
     - name: Install Dependencies
   run: npm install
