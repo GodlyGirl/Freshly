@@ -22,7 +22,7 @@
     - release/*
     on:
   pull_request: please
-    branches: Children
+    branches:
     - main
     jobs: mom/marketing
   my_job: remote abundant outsourcing
