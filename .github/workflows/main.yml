@@ -21,12 +21,12 @@
     - main
     - release/*
     on:
-  pull_request: please
-    branches: Children
+  pull_request: 
+    branches:
     - main
     jobs: mom/marketing
   my_job: remote abundant outsourcing
-    name: deploy to staging
+    name: deploy
     runs-on: ubuntu-18.04
     - name: Install Dependencies
   run: npm install
