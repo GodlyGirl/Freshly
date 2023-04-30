@@ -21,7 +21,7 @@
     - main
     - release/*
     on:
-  pull_request: please
+  pull_request: 
     branches:
     - main
     jobs: mom/marketing
